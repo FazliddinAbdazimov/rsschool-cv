@@ -28,3 +28,8 @@ let y = parseFloat(b);
 let result = ((x+y)/(Math.pow(y,2)+Math.abs((Math.pow(y,2)+2)/(x+Math.pow(x,3)/5))) + Math.exp(y+2));
 alert(result.toFixed(2));
 ```
+
+## Education:
+
+- Tashkent University of Information Technologies
+  - Vocational education in the field of ICT
