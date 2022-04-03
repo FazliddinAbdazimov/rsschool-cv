@@ -33,3 +33,9 @@ alert(result.toFixed(2));
 
 - Tashkent University of Information Technologies
   - Vocational education in the field of ICT
+
+## Languages:
+
+- Uzbek
+- Russian
+- English - A2
